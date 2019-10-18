@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5723ba64.chunk.css",
+    "main.js": "/static/js/main.a554205b.chunk.js",
+    "main.js.map": "/static/js/main.a554205b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51966877.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51966877.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5f43ff4b.chunk.js": "/static/js/2.5f43ff4b.chunk.js",
+    "static/js/2.5f43ff4b.chunk.js.map": "/static/js/2.5f43ff4b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b7f86e79d4ac1fc0bfd09a86a022cc56.js": "/precache-manifest.b7f86e79d4ac1fc0bfd09a86a022cc56.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5723ba64.chunk.css.map": "/static/css/main.5723ba64.chunk.css.map",
+    "static/media/App.css": "/static/media/gesina-kunkel-SUkN3DyFJjk-unsplash.a5f36ae9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51966877.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5f43ff4b.chunk.js",
+    "static/css/main.5723ba64.chunk.css",
+    "static/js/main.a554205b.chunk.js"
+  ]
+}
