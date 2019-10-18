@@ -1,0 +1,26 @@
+{
+  "name": "mp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "concurrently": "^4.1.2",
+    "express": "^4.17.1",
+    "html-dom-parser": "^0.2.2",
+    "jsdom": "^15.1.1",
+    "lodash": "^4.17.15",
+    "needle": "^2.4.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
