@@ -18,7 +18,7 @@
     "concurrently": "^4.1.2",
     "express": "^4.17.1",
     "html-dom-parser": "^0.2.2",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "lodash": "^4.17.15",
     "needle": "^2.4.0",
     "request": "^2.88.0",
